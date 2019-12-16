@@ -1,0 +1,2 @@
+C:\Users\MyVien\Desktop\VienCNTT-K39C\CongNgheJAVA2019\QLthongtinvatlieu\QLthongtinvatlieu\obj\Debug\QLthongtinvatlieu.csprojAssemblyReference.cache
+C:\Users\MyVien\Desktop\VienCNTT-K39C\CongNgheJAVA2019\QLthongtinvatlieu\QLthongtinvatlieu\obj\Debug\QLthongtinvatlieu.csproj.CoreCompileInputs.cache
